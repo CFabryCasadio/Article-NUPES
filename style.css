@@ -1,0 +1,47 @@
+h1 {
+	color: #F2362C;
+	font-family: 'Noto Sans Glagolitic', serif;
+	font-size: 80px;
+	line-height: 0px;
+	text-align: center;
+}
+h2 {
+	color: black;
+	box-shadow: 2px 2px 5px black;
+}
+p {
+	color: black;
+}
+
+#logo {
+	width: 400px;
+	height: 200px;
+	margin-left: 350px;
+}
+
+.imagesarticle {
+	width: 200px;
+	height: 300px;
+	margin-left: 450px;
+}
+
+.article {
+	width: 1100px;
+	margin: 0px auto;
+}
+
+body {
+	background-color: #D0DBF1;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+#icone {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+.autrice {
+	display:flex;
+	align-items: center;
+}
